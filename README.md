@@ -1,5 +1,5 @@
 # MNS Toolbox
-The Metabolic Network Segmentation (MNS) toolbox contains algorithms employing Markov random fields to identify sites and sequential order of metabolic regulations from large-scale metabolomics datasets and genome-scale metabolic network reconstructions. In version 2 we added the possibility to extract active metabolic modules, i.e. subgraphs, from metabolomics or mixed metabolomics, transcriptomics data. The toolbox is implemented in Matlab and calls specific C++ functions of the OpenGM toolbox (http://hciweb2.iwr.uni-heidelberg.de/opengm/). The toolbox can be run on Windows and Mac operating systems.
+The Metabolic Network Segmentation (MNS) toolbox contains algorithms employing Markov random fields to identify sites and sequential order of metabolic regulations from large-scale metabolomics datasets and genome-scale metabolic network reconstructions. In version 2 we added the possibility to extract active metabolic modules, i.e. subgraphs, from metabolomics or mixed metabolomics, transcriptomics data. The toolbox is implemented in Matlab and calls specific C++ functions of the OpenGM toolbox (https://github.com/opengm/opengm). The toolbox can be run on Windows and Mac operating systems.
 
 ## Getting started
 ### Installation of the toolbox
